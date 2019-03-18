@@ -15,7 +15,7 @@ socket - bind - accept - read - write - close
 reply if one is expected
 
 6. What is the syntax of the messages? How we generate and parse them?
-Strings?
+Strings
 
 7. Who closes the connection and when?
 The user and whenever he wants
